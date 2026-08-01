@@ -1,4 +1,4 @@
-# Hi, I am Samiya
+# Hi, I am August L
 
 I am an applied economics and finance student. I am using this GitHub page to keep course projects and internship-related practice work in one place.
 
