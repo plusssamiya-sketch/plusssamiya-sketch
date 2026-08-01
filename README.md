@@ -4,7 +4,7 @@ I am an applied economics and finance student. I am using this GitHub page to ke
 
 The two projects below are cleaned public versions. They use sample or synthetic data where the original coursework or internship material cannot be uploaded. I kept the code structure, data notes, and output files so the workflow is still easy to check.
 
-# husband：https://github.com/yunfeixie233/yunfeixie233.github.io
+husband：https://github.com/yunfeixie233/yunfeixie233.github.io
 
 ## Projects
 
