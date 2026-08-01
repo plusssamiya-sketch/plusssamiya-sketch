@@ -39,4 +39,4 @@ The public repositories do not identify any company, client, issuer, colleague, 
 
 ## Personal Website
 
-I am building a small project website to collect these GitHub links and short project notes in one place.
+Website: https://plusssamiya-sketch.github.io
