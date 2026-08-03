@@ -8,8 +8,8 @@ This profile links to cleaned public versions of my course and practice projects
 
 | Project | Topic | Main files and methods | Start here |
 | --- | --- | --- | --- |
-| [Tariff DID Trade Project](https://github.com/plusssamiya-sketch/tariff-did-trade-project) | Trade policy and provincial exports | Stata, panel construction, fixed-effects DID, event-study and placebo structure | [`paper/tariff_did_research_brief.pdf`](https://github.com/plusssamiya-sketch/tariff-did-trade-project/blob/main/paper/tariff_did_research_brief.pdf) |
-| [Local Fiscal Capacity and Credit Spreads Memo](https://github.com/plusssamiya-sketch/local-fiscal-credit-spread-memo) | Local public finance and credit bond spreads | Python, pandas, variable construction, CSV tables, SVG figures, memo writing | [`memo/local_fiscal_credit_spread_memo.pdf`](https://github.com/plusssamiya-sketch/local-fiscal-credit-spread-memo/blob/main/memo/local_fiscal_credit_spread_memo.pdf) |
+| [Tariff DID Trade Project](https://github.com/plusssamiya-sketch/tariff-did-trade-project) | Trade policy and provincial exports | Stata, panel construction, fixed-effects DID, event-study and placebo structure | [`paper/tariff_did_research_brief.md`](https://github.com/plusssamiya-sketch/tariff-did-trade-project/blob/main/paper/tariff_did_research_brief.md) |
+| [Local Fiscal Capacity and Credit Spreads Memo](https://github.com/plusssamiya-sketch/local-fiscal-credit-spread-memo) | Local public finance and credit bond spreads | Python, pandas, variable construction, CSV tables, SVG figures, memo writing | [`memo/local_fiscal_credit_spread_memo.md`](https://github.com/plusssamiya-sketch/local-fiscal-credit-spread-memo/blob/main/memo/local_fiscal_credit_spread_memo.md) |
 
 ## How the Repositories Are Organized
 
