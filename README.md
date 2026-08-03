@@ -2,7 +2,7 @@
 
 I am an applied economics and finance student interested in empirical research, public finance, trade policy, and credit risk.
 
-This profile links to cleaned public versions of my course and practice projects. When original data cannot be shared, I keep only sample or synthetic data in public repositories and use the code, documentation, and generated outputs to show the workflow.
+This profile links to cleaned public versions of my course and practice projects. When original data cannot be shared, I keep only sample or synthetic data in public repositories and use the code, documentation, and generated outputs, when available, to show the workflow.
 
 ## Projects
 
